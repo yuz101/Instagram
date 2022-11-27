@@ -7,48 +7,96 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "24206028-3918-44C7-A180-2C2FCAA07BF6"
+            uuid = "18035131-EDB5-46DE-9EDF-954A3C16944D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Instagram/Controllers/Main Tabs/HomeViewController.swift"
+            filePath = "Instagram/Controllers/Settings/SettingsViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "viewDidAppear(_:)"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "didTapLogOut()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "937DAF2B-42AB-4ACB-B23A-AEDD7C9167EC"
+            uuid = "E12BC2AE-FD1F-4DA0-BE05-C71054F0EB43"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Instagram/Controllers/Main Tabs/HomeViewController.swift"
+            filePath = "Instagram/Controllers/Settings/SettingsViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "validateAuth()"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "didTapLogOut()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E12BC2AE-FD1F-4DA0-BE05-C71054F0EB43 - 458dd06cd0c2c79a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Instagram.SettingsViewController.didTapLogOut() -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuruzhou/Projects/Instagram/Instagram/Controllers/Settings/SettingsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E12BC2AE-FD1F-4DA0-BE05-C71054F0EB43 - 12a28d6fdf599d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (__C.UIAlertAction) -&gt; () in Instagram.SettingsViewController.didTapLogOut() -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuruzhou/Projects/Instagram/Instagram/Controllers/Settings/SettingsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "832D8900-2025-4006-910B-90A6B89AC4BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instagram/Models/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "logOut(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "D4D66D0E-1CF0-4EF3-8F15-57DF6A514F4F"
+            uuid = "F23DF728-58EE-46F8-B374-476432DE2E23"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Instagram/Controllers/Onboarding/LoginViewController.swift"
+            filePath = "Instagram/Models/AuthenticationManager.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "logOut(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
